@@ -3,7 +3,7 @@ description: "UI/UX + graphic designer"
 url: "https://nickjmather.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default" # options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+minimal_mistakes_skin: "neon" # options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
    
 plugins:
   - jekyll-remote-theme
