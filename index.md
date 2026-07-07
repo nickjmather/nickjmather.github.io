@@ -1,9 +1,15 @@
 ---
 layout: single
-title: "Examples of work"
+title: "Portfolio"
 permalink: /
 author_profile: false
 gallery_design:
+  - url: /images/GAAS-Accolades%20carousel.png
+    image_path: /images/GAAS-Accolades%20carousel-thumb.jpg
+    alt: "GAAS Accolades carousel"
+  - url: /images/GAAS-Home.png
+    image_path: /images/GAAS-Home-thumb.jpg
+    alt: "GAAS Home"
   - url: /images/NTG-collat01.jpg
     image_path: /images/NTG-collat01-thumb.jpg
     alt: "NTG collateral 01"
