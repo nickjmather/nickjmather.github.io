@@ -62,7 +62,7 @@ classes: wide
 
 <figure>
 <a href="/images/SACE-Mod.jpg"><img src="/images/SACE-Mod-thumb.jpg" alt="SACE mod"></a>
-<figcaption>SACE — Mod</figcaption>
+<figcaption>SACE — Moderation</figcaption>
 </figure>
 
 <figure>
@@ -72,22 +72,22 @@ classes: wide
 
 <figure>
 <a href="/images/SACE-SO-mockup.jpg"><img src="/images/SACE-SO-mockup-thumb.jpg" alt="SACE SO mockup"></a>
-<figcaption>SACE — Students Online</figcaption>
+<figcaption>SACE — Students Online, log in</figcaption>
 </figure>
 
 <figure>
 <a href="/images/SACE-SO-mockup-2.jpg"><img src="/images/SACE-SO-mockup-2-thumb.jpg" alt="SACE SO mockup 2"></a>
-<figcaption>SACE — Students Online</figcaption>
+<figcaption>SACE — Students Online, ATAR</figcaption>
 </figure>
 
 <figure>
 <a href="/images/SACE-SO-mockup-MAIN.jpg"><img src="/images/SACE-SO-mockup-MAIN-thumb.jpg" alt="SACE SO mockup main"></a>
-<figcaption>SACE — Students Online</figcaption>
+<figcaption>SACE — Students Online, results</figcaption>
 </figure>
 
 <figure>
 <a href="/images/Tatts-betting-socials-01.jpg"><img src="/images/Tatts-betting-socials-01-thumb.jpg" alt="Tatts betting socials 01"></a>
-<figcaption>Tatts — Betting social media, 01</figcaption>
+<figcaption>Tatts — Betting social media</figcaption>
 </figure>
 
 <figure>
@@ -97,17 +97,17 @@ classes: wide
 
 <figure>
 <a href="/images/Tatts-betting-socials-03.jpg"><img src="/images/Tatts-betting-socials-03-thumb.jpg" alt="Tatts betting socials 03"></a>
-<figcaption>Tatts — social media, 03</figcaption>
+<figcaption>Tatts — social media</figcaption>
 </figure>
 
 <figure>
 <a href="/images/Tatts-betting-socials-04.jpg"><img src="/images/Tatts-betting-socials-04-thumb.jpg" alt="Tatts betting socials 04"></a>
-<figcaption>Tatts — social media, 04</figcaption>
+<figcaption>Tatts — social media</figcaption>
 </figure>
 
 <figure>
 <a href="/images/tattsdotcom.jpg"><img src="/images/tattsdotcom-thumb.jpg" alt="Tatts dot com"></a>
-<figcaption>Tatts — tatts.com</figcaption>
+<figcaption>Tatts — tatts.com website</figcaption>
 </figure>
 
 <figure>
@@ -117,7 +117,7 @@ classes: wide
 
 <figure>
 <a href="/images/Pique-Business_card_mock_up-pique.jpg"><img src="/images/Pique-Business_card_mock_up-pique-thumb.jpg" alt="Pique business card mockup pique"></a>
-<figcaption>Pique — Business card mockup</figcaption>
+<figcaption>Pique — Business card</figcaption>
 </figure>
 
 <figure>
@@ -142,7 +142,7 @@ classes: wide
 
 <figure>
 <a href="/images/Pique-website-mockup.jpg"><img src="/images/Pique-website-mockup-thumb.jpg" alt="Pique website mockup"></a>
-<figcaption>Pique — Website mockup</figcaption>
+<figcaption>Pique — Website</figcaption>
 </figure>
 
 <figure>
@@ -264,12 +264,12 @@ classes: wide
 
 <figure>
 <a href="/images/Photography%20-%20Argentina01.jpg"><img src="/images/Photography%20-%20Argentina01-thumb.jpg" alt="Photography Argentina 01"></a>
-<figcaption>Photography — Argentina</figcaption>
+<figcaption>Argentina</figcaption>
 </figure>
 
 <figure>
 <a href="/images/Photography-Argentina02.jpg"><img src="/images/Photography-Argentina02-thumb.jpg" alt="Photography Argentina 02"></a>
-<figcaption>Photography — Argentina</figcaption>
+<figcaption>Argentina</figcaption>
 </figure>
 
 <figure>
