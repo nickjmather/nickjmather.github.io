@@ -1,16 +1,49 @@
 <style>
-  figure.third a,
-  figure.half a {
+  .portfolio-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2em;
+    margin: 1.5em 0 3em;
+  }
+
+  .portfolio-grid figure {
+    margin: 0;
+  }
+
+  .portfolio-grid figure a {
     display: block;
     aspect-ratio: 1 / 1;
     overflow: hidden;
+    border-radius: 6px;
   }
 
-  figure.third img,
-  figure.half img {
+  .portfolio-grid figure img {
     width: 100%;
     height: 100%;
     object-fit: cover;
     display: block;
+    transition: transform 0.25s ease;
+  }
+
+  .portfolio-grid figure a:hover img {
+    transform: scale(1.03);
+  }
+
+  .portfolio-grid figcaption {
+    margin-top: 0.6em;
+    font-size: 0.9em;
+    line-height: 1.3;
+  }
+
+  @media (max-width: 900px) {
+    .portfolio-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 500px) {
+    .portfolio-grid {
+      grid-template-columns: 1fr;
+    }
   }
 </style>
