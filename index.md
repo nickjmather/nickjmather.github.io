@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Nick Mather | Portfolio"
+title: "Examples of work"
 permalink: /
 author_profile: false
 gallery:
