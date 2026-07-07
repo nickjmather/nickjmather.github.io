@@ -10,27 +10,6 @@ gallery_design:
   - url: /images/GAAS-Home.png
     image_path: /images/GAAS-Home-thumb.jpg
     alt: "GAAS Home"
-  - url: /images/NTG-collat01.jpg
-    image_path: /images/NTG-collat01-thumb.jpg
-    alt: "NTG collateral 01"
-  - url: /images/NTG-collat02.jpg
-    image_path: /images/NTG-collat02-thumb.jpg
-    alt: "NTG collateral 02"
-  - url: /images/NTG-collat03.jpg
-    image_path: /images/NTG-collat03-thumb.jpg
-    alt: "NTG collateral 03"
-  - url: /images/NTG-collat04.jpg
-    image_path: /images/NTG-collat04-thumb.jpg
-    alt: "NTG collateral 04"
-  - url: /images/NTG-collat05.jpg
-    image_path: /images/NTG-collat05-thumb.jpg
-    alt: "NTG collateral 05"
-  - url: /images/NTG-website-mockup.jpg
-    image_path: /images/NTG-website-mockup-thumb.jpg
-    alt: "NTG website mockup"
-  - url: /images/NTG-website-mockup-2.jpg
-    image_path: /images/NTG-website-mockup-2-thumb.jpg
-    alt: "NTG website mockup 2"
   - url: /images/PDAO-NFT-teaser.png
     image_path: /images/PDAO-NFT-teaser-thumb.jpg
     alt: "PDAO NFT teaser"
@@ -49,6 +28,42 @@ gallery_design:
   - url: /images/PDAO-website.png
     image_path: /images/PDAO-website-thumb.jpg
     alt: "PDAO website"
+  - url: /images/pdao-socials-Happy%20holidays.png
+    image_path: /images/pdao-socials-Happy%20holidays-thumb.jpg
+    alt: "PDAO socials Happy holidays"
+  - url: /images/SACE-Marking.jpg
+    image_path: /images/SACE-Marking-thumb.jpg
+    alt: "SACE marking"
+  - url: /images/SACE-Mod.jpg
+    image_path: /images/SACE-Mod-thumb.jpg
+    alt: "SACE mod"
+  - url: /images/SACE-PLATO-mockup-My-Learning.jpg
+    image_path: /images/SACE-PLATO-mockup-My-Learning-thumb.jpg
+    alt: "SACE PLATO mockup My Learning"
+  - url: /images/SACE-SO-mockup.jpg
+    image_path: /images/SACE-SO-mockup-thumb.jpg
+    alt: "SACE SO mockup"
+  - url: /images/SACE-SO-mockup-2.jpg
+    image_path: /images/SACE-SO-mockup-2-thumb.jpg
+    alt: "SACE SO mockup 2"
+  - url: /images/SACE-SO-mockup-MAIN.jpg
+    image_path: /images/SACE-SO-mockup-MAIN-thumb.jpg
+    alt: "SACE SO mockup main"
+  - url: /images/Tatts-betting-socials-01.jpg
+    image_path: /images/Tatts-betting-socials-01-thumb.jpg
+    alt: "Tatts betting socials 01"
+  - url: /images/Tatts-betting-socials-02.jpg
+    image_path: /images/Tatts-betting-socials-02-thumb.jpg
+    alt: "Tatts betting socials 02"
+  - url: /images/Tatts-betting-socials-03.jpg
+    image_path: /images/Tatts-betting-socials-03-thumb.jpg
+    alt: "Tatts betting socials 03"
+  - url: /images/Tatts-betting-socials-04.jpg
+    image_path: /images/Tatts-betting-socials-04-thumb.jpg
+    alt: "Tatts betting socials 04"
+  - url: /images/tattsdotcom.jpg
+    image_path: /images/tattsdotcom-thumb.jpg
+    alt: "Tatts dot com"
   - url: /images/Pique-Business_card_mock_up-colonics.jpg
     image_path: /images/Pique-Business_card_mock_up-colonics-thumb.jpg
     alt: "Pique business card mockup colonics"
@@ -73,45 +88,30 @@ gallery_design:
   - url: /images/pique-koguma.jpg
     image_path: /images/pique-koguma-thumb.jpg
     alt: "Pique koguma"
-  - url: /images/SACE-Marking.jpg
-    image_path: /images/SACE-Marking-thumb.jpg
-    alt: "SACE marking"
-  - url: /images/SACE-Mod.jpg
-    image_path: /images/SACE-Mod-thumb.jpg
-    alt: "SACE mod"
-  - url: /images/SACE-PLATO-mockup-My-Learning.jpg
-    image_path: /images/SACE-PLATO-mockup-My-Learning-thumb.jpg
-    alt: "SACE PLATO mockup My Learning"
-  - url: /images/SACE-SO-mockup.jpg
-    image_path: /images/SACE-SO-mockup-thumb.jpg
-    alt: "SACE SO mockup"
-  - url: /images/SACE-SO-mockup-2.jpg
-    image_path: /images/SACE-SO-mockup-2-thumb.jpg
-    alt: "SACE SO mockup 2"
-  - url: /images/SACE-SO-mockup-MAIN.jpg
-    image_path: /images/SACE-SO-mockup-MAIN-thumb.jpg
-    alt: "SACE SO mockup main"
   - url: /images/Skella-kaspersky.jpg
     image_path: /images/Skella-kaspersky-thumb.jpg
     alt: "Skella Kaspersky"
-  - url: /images/Tatts-betting-socials-01.jpg
-    image_path: /images/Tatts-betting-socials-01-thumb.jpg
-    alt: "Tatts betting socials 01"
-  - url: /images/Tatts-betting-socials-02.jpg
-    image_path: /images/Tatts-betting-socials-02-thumb.jpg
-    alt: "Tatts betting socials 02"
-  - url: /images/Tatts-betting-socials-03.jpg
-    image_path: /images/Tatts-betting-socials-03-thumb.jpg
-    alt: "Tatts betting socials 03"
-  - url: /images/Tatts-betting-socials-04.jpg
-    image_path: /images/Tatts-betting-socials-04-thumb.jpg
-    alt: "Tatts betting socials 04"
-  - url: /images/tattsdotcom.jpg
-    image_path: /images/tattsdotcom-thumb.jpg
-    alt: "Tatts dot com"
-  - url: /images/pdao-socials-Happy%20holidays.png
-    image_path: /images/pdao-socials-Happy%20holidays-thumb.jpg
-    alt: "PDAO socials Happy holidays"
+  - url: /images/NTG-collat01.jpg
+    image_path: /images/NTG-collat01-thumb.jpg
+    alt: "NTG collateral 01"
+  - url: /images/NTG-collat02.jpg
+    image_path: /images/NTG-collat02-thumb.jpg
+    alt: "NTG collateral 02"
+  - url: /images/NTG-collat03.jpg
+    image_path: /images/NTG-collat03-thumb.jpg
+    alt: "NTG collateral 03"
+  - url: /images/NTG-collat04.jpg
+    image_path: /images/NTG-collat04-thumb.jpg
+    alt: "NTG collateral 04"
+  - url: /images/NTG-collat05.jpg
+    image_path: /images/NTG-collat05-thumb.jpg
+    alt: "NTG collateral 05"
+  - url: /images/NTG-website-mockup.jpg
+    image_path: /images/NTG-website-mockup-thumb.jpg
+    alt: "NTG website mockup"
+  - url: /images/NTG-website-mockup-2.jpg
+    image_path: /images/NTG-website-mockup-2-thumb.jpg
+    alt: "NTG website mockup 2"
 gallery_maker:
   - url: /images/Maker%20-%20arcade00.jpg
     image_path: /images/Maker%20-%20arcade00-thumb.jpg
