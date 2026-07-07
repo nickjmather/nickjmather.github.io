@@ -7,19 +7,4 @@ title: "Nick Mather | Portfolio"
    description: "UI/UX + graphic designer"
    url: "https://username.github.io"
    
-   author:
-     name: "Nick Mather"
-     bio: "A graphic designer with over 30 years of broad experience, with a current focus on UI."
-     collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
 
-defaults:
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
