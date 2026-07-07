@@ -1,6 +1,4 @@
 ---
-   title: Home
-   ---
 layout: single
 title: "Nick Mather | Portfolio"
 permalink: /
