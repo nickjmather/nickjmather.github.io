@@ -3,3 +3,10 @@ remote_theme: "mmistakes/minimal-mistakes"
    
    plugins:
      - jekyll-remote-theme
+title: "Nick Mather | Portfolio"
+   description: "UI/UX + graphic designer"
+   url: "https://username.github.io"
+   
+   author:
+     name: "Nick Mather"
+     bio: "A graphic designer with over 30 years of broad experience, with a current focus on UI."
